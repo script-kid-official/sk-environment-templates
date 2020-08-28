@@ -1,0 +1,33 @@
+// Vendors
+@import "vendor/bootstrap";
+
+// Abstracts
+@import "abstracts/animations";
+@import "abstracts/mixins";
+@import "abstracts/variable";
+
+// Theme
+@import "themes/theme";
+@import "themes/admin";
+
+// Base
+@import "base/reset";
+@import "base/typography";
+
+// Layouts
+@import "layout/footer";
+@import "layout/forms";
+@import "layout/grid";
+@import "layout/header";
+@import "layout/navigation";
+@import "layout/sidebar";
+
+// Pages
+@import "pages/home";
+@import "pages/contact";
+
+// Components
+@import "components/buttons";
+@import "components/carousel";
+@import "components/cover";
+@import "components/dropdown";
